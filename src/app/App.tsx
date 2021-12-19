@@ -14,7 +14,7 @@ function App(): JSX.Element {
           <p>Hello Vite + React!</p>
           <p>
             <button onClick={() => setCount((count) => count + 1)}>
-              count is: {count}
+              count iss: {count}
             </button>
           </p>
           <p>
